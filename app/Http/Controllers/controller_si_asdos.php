@@ -10,7 +10,7 @@ use App\model\member;
 use Carbon;
 use App\model\asdos;
 
-class member1 extends Controller
+class controller_si_asdos extends Controller
 {
     public function login(Request $req)
     {
